@@ -1,5 +1,5 @@
-# <font color='red'>Deploy your Data Vizualisation and Machine Learning results in a Dashboard using Heroku,Python,Html and Git<font/>
-Dashboard
+# Deploy your Data Vizualisation and Machine Learning results in a Dashboard using Heroku,Python,Html and Git
+
 <img src="retaildash_video.gif" />
 
 I used :
