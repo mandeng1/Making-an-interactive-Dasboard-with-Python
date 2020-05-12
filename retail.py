@@ -13,7 +13,7 @@ from operator import itemgetter
 import base64
 
 #import dataset
-df=pd.read_excel("https://raw.githubusercontent.com/mandeng1/Retail_Dasboad/master/test_data.csv")
+df=pd.read_csv("https://raw.githubusercontent.com/mandeng1/Retail_Dasboad/master/test_data.csv")
 df_infos=pd.read_csv("https://raw.githubusercontent.com/mandeng1/Retail_Dasboad/master/df_infos.csv")
 df_geo=pd.read_csv("https://raw.githubusercontent.com/mandeng1/Retail_Dasboad/master/df_geo.csv")
 #create some data set 
