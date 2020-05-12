@@ -22,7 +22,7 @@ I also did machine learning algorithms such as clustering to identify different 
 # Author
 <br>**Jean Marie Mandeng** <br/>
 Msc Student in Big Data Marketing and Management at Toulouse Business School.<br/>
-<a href="www.linkedin.com/in/jean-marie-mandeng">My Linkedln </a>
+<a href="https://www.linkedin.com/in/jean-marie-mandeng/">My Linkedln </a>
 
 
 
