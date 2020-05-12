@@ -18,3 +18,10 @@ I also did machine learning algorithms such as clustering to identify different 
 * **Country**: Country name. Nominal. The name of the country where a customer resides.
 
 # Results
+
+
+
+
+
+
+
