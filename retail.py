@@ -14,7 +14,7 @@ import base64
 
 #import dataset
 df=pd.read_excel("online_retail_II.xlsx")
-df_infos=pd.read_csv("df_infos.csv")
+df_infos=pd.read_csv("https://raw.githubusercontent.com/mandeng1/Retail_Dasboad/master/df_infos.csv")
 df_geo=pd.read_csv("df_geo.csv")
 #create some data set 
 #df1=df.groupby('Country')['StockCode','Customer ID'].nunique().reset_index()
