@@ -18,7 +18,7 @@ I also did machine learning algorithms such as clustering to identify different 
 
 # Results
 
-<img src="images/montagne.jpg" alt="Photo de montagne" title="C'est beau les Alpes quand même !" />
+<img src="retaildash_video.gif" />
 
 
 
