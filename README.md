@@ -7,7 +7,6 @@ I have used this data to create a visualization tool that will allow us to obser
 I also did machine learning algorithms such as clustering to identify different groups in the data set, time series algorithms to predict commands over time.
 ## Attribute Information for **Online Retail II Dataset**:
 
-
 * **InvoiceNo**: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
 * **StockCode**: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.
 * **Description**: Product (item) name. Nominal.
@@ -18,6 +17,8 @@ I also did machine learning algorithms such as clustering to identify different 
 * **Country**: Country name. Nominal. The name of the country where a customer resides.
 
 # Results
+
+<img src="images/montagne.jpg" alt="Photo de montagne" title="C'est beau les Alpes quand même !" />
 
 
 
