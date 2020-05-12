@@ -21,7 +21,9 @@ I also did machine learning algorithms such as clustering to identify different 
 <img src="retaildash_video.gif" />
 
 
-
+# Author
+<br>**Jean Marie Mandeng** <br/>
+Msc Student in Big Data Marketing and Management at Toulouse Business School.
 
 
 
