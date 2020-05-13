@@ -7,7 +7,7 @@ I used :
 * I also download from this  <a href="https://developers.google.com/public-data/docs/canonical/countries_csv">website</a> , the longitude and latitude of each country in my data set **retail online II** to make map charts.
 
 I have used this data to create a visualization tool that will allow us to observe the underlying trends and thus facilitate decision-making.
-I also did machine learning algorithms such as clustering to identify different groups in the data set, time series algorithms to predict commands over time.
+I also did machine learning algorithms such as clustering to identify different groups in the data set, time series algorithms to predict customer orders over time.
 ## Attribute Information for **Online Retail II Dataset**:
 
 * **InvoiceNo**: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
